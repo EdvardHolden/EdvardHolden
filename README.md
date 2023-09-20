@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-PhD Computer Science - the University of Manchester
+:mortar_board: PhD Computer Science - The University of Manchester :purple_heart:
 
-Researching the intersection of machine learning and automated reasoning.
+Researching the intersection of machine learning :robot: and automated reasoning :brain:.
 
 Developer of:
 - [HOS-ML](https://gitlab.com/edvardholden/hos-ml): heterogeneous instance optimisation and effective heuristic [SCPeduling](https://gitlab.com/edvardholden/scpeduler).
@@ -21,12 +21,12 @@ I am currently open to new projects in machine learning and data science, and I 
 - Performance Optimisation
 
 ## Favourite tools:
-- Python
+- Python :snake:
 - Tensorflow
 - PyTorch
 - scikit-learn
-- Jupyter
-- Linux
+- Jupyter :notebook_with_decorative_cover:
+- Linux :penguin:
 
 <!--
 **EdvardHolden/EdvardHolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
