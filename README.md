@@ -23,7 +23,7 @@ I am currently open to new projects in machine learning and data science, and I 
 ## Favourite tools:
 - Python :snake:
 - Tensorflow
-- PyTorch
+- Torch
 - scikit-learn
 - Jupyter :notebook_with_decorative_cover:
 - Linux :penguin:
